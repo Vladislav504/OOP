@@ -1,0 +1,6 @@
+[submodule "first-lab"]
+	path = first-lab
+	url = https://github.com/Vladislav504/first-lab.git
+[submodule "interface"]
+	path = interface
+	url = https://github.com/Vladislav504/first-lab-with-interface.git
